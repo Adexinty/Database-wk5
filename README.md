@@ -3,6 +3,7 @@
 
 This repository contains a set of MySQL queries for managing database indexes and user permissions. The queries are designed to be simple and straightforward, suitable for basic database administration tasks.  
 
+
 ## Purpose  
 
 The code includes four MySQL queries to:  
