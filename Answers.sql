@@ -9,3 +9,4 @@ GRANT INSERT ON salesDB.* TO 'bob'@'localhost';
 
 -- Change the password for user bob to a new password
 ALTER USER 'bob'@'localhost' IDENTIFIED BY 'P$55!23';
+
